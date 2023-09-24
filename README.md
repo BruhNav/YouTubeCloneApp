@@ -11,7 +11,7 @@ Refer to https://nodejs.org/en/ to install nodejs
 
 ## Live Application URL
 
-The Application is deployed [here]([https://aqiheat-383813.an.r.appspot.com/](https://you-tube-clone-app-three.vercel.app/))
+The Application is deployed [here](https://you-tube-clone-app-three.vercel.app/)
 
 Click on the link to see the application
 
