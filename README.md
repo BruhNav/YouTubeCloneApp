@@ -19,10 +19,10 @@ Click on the link to see the application
 
 Clone the project into local
 
-From the main project directory change to Website dirctory
+From the main project directory change to YouTubeCloneApp dirctory
 
 ```bash
-cd Website
+cd YouTubeCloneApp
 ```
 
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
